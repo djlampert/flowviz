@@ -1,0 +1,8 @@
+name: flowviz-environment
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - matplotlib
